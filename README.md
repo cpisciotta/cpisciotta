@@ -11,9 +11,9 @@ My name is Charles Pisciotta. I'm an aspiring software engineering, interested i
 - Founder of <a href="https://weeklybyte.io/" target="_blank">Weekly Byte</a>
 
 🏗 **Personal Projects**
-- <a href="https://github.com/cpisciotta/nvolve-Campus-Clubs-and-Events-Discovery" target="_blank">nvolve</a>: A mobile app which helps students find clubs at their university or high school.
+- <a href="https://github.com/cpisciotta/nvolve-Campus-Clubs-and-Events-Discovery" target="_blank">nvolve</a>: A mobile app that helps students find clubs at their university or high school.
 - <a href="https://github.com/cpisciotta/GitHub-Issues-Browser" target="_blank">GitHub Issues Browser</a>: A sample SwiftUI (iOS) app that allows a user to browse GitHub issues from a user's repositories.
-- <a href="https://devpost.com/software/spiro" target="_blank">Spiro</a>: A tablet application which informs users the probability that they have Parkinson's disease. This project won 3rd place at Purdue's 2018 BoilerMake Hackathon and recognition from Google for its use of Google Cloud Platform.
+- <a href="https://devpost.com/software/spiro" target="_blank">Spiro</a>: A tablet application that informs users of the probability that they have Parkinson's disease. This project won 3rd place at Purdue's 2018 BoilerMake Hackathon and recognition from Google for its use of Google Cloud Platform.
 - <a href="https://github.com/cpisciotta/FirebaseKit" target="_blank">FirebaseKit</a>: A Swift framework that makes it easy to include Firebase in iOS projects.
 
 📫 **Contact Information**
