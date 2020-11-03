@@ -3,7 +3,7 @@
 My name is Charles Pisciotta. I'm an aspiring software engineering, interested in mobile development and entrepreneurship. Check out some of my experience below, and feel free to reach out!
 
 🎓 **Education**
-- B.S. Computer Engineering | <a href="https://honors.purdue.edu/" target="_blank">Honors College</a> | <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, Class of 2022
+- B.S. Computer Engineering | Honors College | <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, Class of 2022
 
 👨‍💻 **Software Development Work Experience**
 - Mobile Applications Developer Intern at <a href="https://www.canfieldsci.com/" target="_blank">Canfield Scientific</a>
