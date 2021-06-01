@@ -6,10 +6,11 @@ My name is Charles Pisciotta. I'm an aspiring software engineer, interested in m
 - B.S. Computer Engineering | Honors College | <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, Expected Graduation: December 2021
 
 👨‍💻 **Software Development Work Experience**
-- Former Mobile Applications Developer Intern at <a href="https://www.canfieldsci.com/" target="_blank">Canfield Scientific</a>
-- Freelance Web and App Design and Development (Self-Employed)
-- Founder of <a href="https://weeklybyte.io/" target="_blank">Weekly Byte</a>
+- Mobile Engineering Intern at <a href="https://www.weightwatchers.com/us/" target="_blank">WW (formerly Weight Watchers)</a>
 - iOS Developer at <a href="https://www.soundmind.app/" target="_blank">SoundMind</a>
+- Founder of <a href="https://weeklybyte.io/" target="_blank">Weekly Byte</a>
+- Freelance Web and App Design and Development (Self-Employed)
+- Former Mobile Applications Developer Intern at <a href="https://www.canfieldsci.com/" target="_blank">Canfield Scientific</a>
 
 🏗 **Personal Projects**
 - <a href="https://github.com/cpisciotta/nvolve-Campus-Clubs-and-Events-Discovery" target="_blank">nvolve</a>: A mobile app that helps students find clubs at their university or high school.
