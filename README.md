@@ -12,7 +12,7 @@ My name is Charles Pisciotta. I'm an aspiring software engineer, interested in m
 - Freelance Web and App Design and Development (Self-Employed)
 - Former Mobile Applications Developer Intern at <a href="https://www.canfieldsci.com/" target="_blank">Canfield Scientific</a>
 
-🏗 **Personal Projects**
+🏗 **Projects**
 - <a href="https://github.com/cpisciotta/nvolve-Campus-Clubs-and-Events-Discovery" target="_blank">nvolve</a>: A mobile app that helps students find clubs at their university or high school.
 - <a href="https://github.com/cpisciotta/GitHub-Issues-Browser" target="_blank">GitHub Issues Browser</a>: A sample SwiftUI (iOS) app that allows a user to browse GitHub issues from a user's repositories.
 - <a href="https://devpost.com/software/spiro" target="_blank">Spiro</a>: A tablet application that informs users of the probability that they have Parkinson's disease. This project won 3rd place at Purdue's 2018 BoilerMake Hackathon and recognition from Google for its use of Google Cloud Platform.
