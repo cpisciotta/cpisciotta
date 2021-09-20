@@ -9,7 +9,7 @@ My name is Charles Pisciotta. I'm an aspiring software engineer, interested in m
 - Freelance Web and App Design and Development (Self-Employed)
 - Former Mobile Engineering Intern at <a href="https://www.weightwatchers.com/us/" target="_blank">WW (formerly Weight Watchers)</a>
 - Former iOS Developer at <a href="https://www.soundmind.app/" target="_blank">SoundMind</a>
-- Founder of <a href="https://weeklybyte.io/" target="_blank">Weekly Byte</a>
+- Founder of Weekly Byte
 - Former Mobile Applications Developer Intern at <a href="https://www.canfieldsci.com/" target="_blank">Canfield Scientific</a>
 
 🏗 **Projects**
