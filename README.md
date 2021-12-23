@@ -3,7 +3,7 @@
 My name is Charles Pisciotta. I'm an aspiring software engineer, interested in mobile development and entrepreneurship. Check out some of my experience below, and feel free to reach out!
 
 🎓 **Education**
-- B.S. Computer Engineering | Honors College | <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, Expected Graduation: December 2021
+- B.S. Computer Engineering | Honors College | <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, December 2021
 
 👨‍💻 **Software Development Work Experience**
 - iOS Engineering Intern at <a href="https://www.weightwatchers.com/us/" target="_blank">WW (formerly Weight Watchers)</a>
