@@ -6,7 +6,8 @@ My name is Charles Pisciotta. I'm a software engineer, interested in mobile deve
 - B.S. Computer Engineering | Honors College | <a href="https://www.purdue.edu/" target="_blank">Purdue University</a>, December 2021
 
 👨‍💻 **Software Development Work Experience**
-- iOS Engineer at <a href="https://www.aeoncharge.com/" target="_blank">AeonCharge</a>
+- iOS Engineer at Audible
+- Former iOS Engineer at <a href="https://www.aeoncharge.com/" target="_blank">AeonCharge</a>
 - Freelance Web and App Design and Development (Self-Employed)
 - Former iOS Engineering Intern at <a href="https://www.weightwatchers.com/us/" target="_blank">WW (formerly Weight Watchers)</a>
 - Former iOS Developer at <a href="https://www.soundmind.app/" target="_blank">SoundMind</a>
