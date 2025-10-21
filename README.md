@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Charles Pisciotta. I'm a software engineer interested in mobile development and entrepreneurship. Check out some of my experience below, and feel free to reach out!
+I'm a software engineer interested in mobile development and entrepreneurship. Check out some of my experience below, and feel free to reach out!
 
 📫 **Contact Information**
 - Email: cpisciottadeveloping@gmail.com
