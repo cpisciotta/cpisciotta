@@ -5,4 +5,4 @@ I'm a software engineer interested in mobile development and entrepreneurship. C
 📫 **Contact Information**
 - Email: cpisciottadeveloping@gmail.com
 - Personal Website: <a href="https://charlespisciotta.com/" target="_blank">charlespisciotta.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/charlespisciotta/" target="_blank">cpisciotta</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/charlespisciotta/" target="_blank">charlespisciotta</a>
